@@ -1,0 +1,17 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"outDir": "./public/",
+		"moduleResolution": "node",
+		"noResolve": true,
+		"noImplicitAny": false,
+		"removeComments": true,
+		"sourceMap": true,
+		"module": "commonjs",
+		"target": "es6",
+		"jsx": "react"
+	},
+	"exclude": [
+		"./node_modules/**/*"
+	]
+}

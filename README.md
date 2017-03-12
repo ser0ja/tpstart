@@ -1,2 +1,5 @@
 # tpstart
-start with webpack + typescript + react
+moment — http://momentjs.com
+
+lodash — https://lodash.com
+
